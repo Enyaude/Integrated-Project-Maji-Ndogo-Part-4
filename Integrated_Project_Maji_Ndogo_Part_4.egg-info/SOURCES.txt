@@ -1,0 +1,8 @@
+README.md
+Setup.py
+setup.py
+Integrated_Project_Maji_Ndogo_Part_4.egg-info/PKG-INFO
+Integrated_Project_Maji_Ndogo_Part_4.egg-info/SOURCES.txt
+Integrated_Project_Maji_Ndogo_Part_4.egg-info/dependency_links.txt
+Integrated_Project_Maji_Ndogo_Part_4.egg-info/requires.txt
+Integrated_Project_Maji_Ndogo_Part_4.egg-info/top_level.txt
